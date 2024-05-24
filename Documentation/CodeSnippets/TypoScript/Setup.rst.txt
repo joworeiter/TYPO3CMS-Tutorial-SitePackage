@@ -4,6 +4,6 @@
 .. code-block:: typoscript
    :caption: EXT:site_package/Configuration/Sets/SitePackage/setup.typoscript
    :linenos:
-
+   @import 'EXT:fluid_styled_content/Configuration/TypoScript/constants.typoscript'
    @import 'EXT:site_package/Configuration/TypoScript/Setup/*.typoscript'
    
